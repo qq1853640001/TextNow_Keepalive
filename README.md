@@ -1,4 +1,4 @@
-本项目地址为 [justhy/TextNow_Keepalive](https://github.com/justhy/TextNow_Keepalive) 
+原仓库：[Arronlong/py_scripts](https://github.com/Arronlong/py_scripts) 
 
 # TextNow保号，发短信给GV号
 TextNow保号任务，给指定号码发短信，支持多账号。
@@ -36,4 +36,3 @@ Actions > py_scripts > build
 此后，将会在每天6:00发送一次  
 若有需求，可以在[.github/workflows/actions.yml]中自行修改，**【此配置所有任务共享，修改需谨慎】**
 
-感谢：[Arronlong/py_scripts](https://github.com/Arronlong/py_scripts) 
